@@ -1,0 +1,26 @@
+{
+  "Ads Controller": {
+    "Ad Units": {
+      "Admob": {
+        "admob_banner_id": "ca-app-pub-2120403233975259/3487602683",
+        "admob_interstitial_id": "ca-app-pub-2120403233975259/7235276009",
+        "admob_native_id": "ca-app-pub-2120403233975259/3296030999"
+      },
+      "Unity": {
+        "unity_game_id": "5123758",
+        "unity_banner_id": "Banner_Android",
+        "unity_interstitial_id": "Interstitial_Android"
+      },
+      "Max": {
+        "max_banner_id": "789ecf46a4aaa724",
+        "max_interstitial_id": "dc38bf7f5de3aa80",
+        "max_native_id": "216dd9451b13b2d4"
+      }
+    },
+    "Ads Config": {
+      "mode_ads_banner": "admob",
+      "mode_ads_interstitial": "unity",
+      "mode_ads_native": "admob"
+    }
+  }
+}
